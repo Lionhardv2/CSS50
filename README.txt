@@ -33,5 +33,13 @@ git checkout					    # to switch into the feature branch
 
 git push --set-upstream origin feature  	    # to push into the git repository
 
+git checkout master			   	    # to switch into master branch
+
+git add README.txt			            # to add README.txt into branch master
+
+git commit -m "update the comments"		    # to report the changes
+
+git push				            # to save into github repository
+
 
 
