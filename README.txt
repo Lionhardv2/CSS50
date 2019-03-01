@@ -29,5 +29,9 @@ git log						    # to see the report of all we did it
 
 git merge feature				    # to combine both branch
 
+git checkout					    # to switch into the feature branch
+
+git push --set-upstream origin feature  	    # to push into the git repository
+
 
 
